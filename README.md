@@ -1,2 +1,2 @@
-# CRUD Nodejs test
-Simple crud express js with mongoose package mongodb
+# CRUD Nodejs
+Simple crud express js with mongoose package
